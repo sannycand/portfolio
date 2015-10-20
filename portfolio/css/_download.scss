@@ -1,0 +1,27 @@
+#resume-wrapper {
+	padding: 50px 0;
+	//@include opacity(0.5);
+	background-color: $mint-cream;
+	.row{
+		h3 {
+			color: $DarkSlateGray;
+			font-size: 3em;
+		}
+		p{
+			margin-top: 30px;
+			color: $DarkSlateGray;
+			font-size: 1.6em;
+			@include mobile-xs {
+				font-size: 1em;
+				word-wrap: break-word;
+			}
+			@include mobile-sm {
+				font-size: 1.2em;
+				word-wrap: break-word;
+			}
+		}
+	.download {
+		padding-top: 20px;
+	}
+	}
+}

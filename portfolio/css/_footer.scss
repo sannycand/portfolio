@@ -1,24 +1,27 @@
-.site-footer {
-	padding: 20px;
+.footer-info {
+	padding: 50px;
 	background: {
 		image: url(../img/footer-bg.jpg);
 	}
-	p{
+	p {
 		color: $DarkSlateGray;
 		font: {
 			size: 20px;
 			family: $stack-roboto; 
 		}
+				font-size: 15px;
 		a {
 			color: $DarkSlateGray;
 			&:hover{
 				text-decoration: none;
 				color: $mint-cream;
-			}
-			
+			}	
 		}
+		
 	}
+
 	ul {
+		margin-top: 20px;
 		background-color: transparent;
 		li {
 			color: $DarkSlateGray;
@@ -26,6 +29,13 @@
 				size: 15px;
 				family: $stack-ubuntu;
 			}
+			@include mobile-xs {
+				font-size: 10px;
+			}
+			@include mobile-sm {
+				font-size: 12px;
+			}
+			
 		}
 	}
 }

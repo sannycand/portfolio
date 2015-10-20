@@ -1,0 +1,19 @@
+.navbar-brand{
+		font-family: $stack-ubuntu;
+		font-weight: $font-bold;
+		&:hover {
+			@include text-shadow(2px, 2px, 3px,$gray-shade);
+			@include transition( all 0.1s ease-in 0s);
+		}
+	}
+
+.nav {
+	li{
+		&:hover{
+		@include box-shadow(1px, 0px, 5px, $gray-shade);
+		@include transition( all 0.1s ease-in 0s);
+		@include opacity(0.5);
+		background-color:$floral-white;
+		}
+	}
+}

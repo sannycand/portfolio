@@ -1,0 +1,18 @@
+#skills-wrapper {
+	padding:  50px 0;
+	background-color: #355267; 
+	img{
+		width: 150px;
+		height: 150px;
+	}
+}
+
+.panel{
+		margin:10px 20px;
+		&:hover {
+		background-color: #355267;
+		//@include box-shadow(1px, 0px, 5px, $gray-shade);
+		//@include opacity(1);
+		@include transition( all 0.1s ease-in 0s);
+		}
+}
