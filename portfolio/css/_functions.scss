@@ -1,0 +1,30 @@
+//font url
+$font-google-prim : 'https://fonts.googleapis.com/css?family=Ubuntu:400,700,300)';
+$font-google-sec : 'https://fonts.googleapis.com/css?family=Poiret+One)';
+$font-google-thi : 'https://fonts.googleapis.com/css?family=Roboto:400,300italic)';
+
+
+
+// Import if Google Font URLs are defined
+@if variable-exists(font-google-prim) {
+  @import url($font-google-prim);
+}
+
+@if variable-exists(font-google-sec) {
+  @import url($font-google-sec);
+}
+
+@if variable-exists(font-google-thi) {
+  @import url($font-google-thi);
+}
+
+
+//text-shadow
+@function makelongshadow($color) {
+  $val: 0px 0px $color;
+  @for $i from 1 through 200 {
+    $val: #{$val}, #{$i}px #{$i}px #{$color};
+  }
+  @return $val;
+}
+

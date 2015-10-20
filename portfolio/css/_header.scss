@@ -1,0 +1,87 @@
+.site-header {
+	position: relative;
+	//width:100%;
+	height: 640px;
+	overflow: hidden;
+	border:$border;
+	z-index: -200;
+	@include mobile-height {
+		height: 460px;
+	}
+	background: {
+		image: url(../img/header-bg.jpg);
+		//size: 100% 100%;
+		size: cover;
+		position: top;
+		repeat: no-repeat;
+		attachment: fixed;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+	.header-body{
+		position:fixed;
+		z-index: -100;
+	}
+	h1 {
+
+		color: $mint-cream;
+		margin-top: 200px;
+		@include text-shadow(0, 0,1px, $shadow);
+		@include antialiasing;
+		font: {
+			size: 7em;
+			family: $stack-ubuntu;
+			weight: $font-bold;
+			}
+
+		@include mobile-xs {
+			font-size: 2em;
+			}
+
+		@include mobile-sm {
+			font-size: 3em;
+			}
+
+		@include tablet {
+			font-size: 4.5em;
+			}
+
+		@include desktop-md {
+			font-size: 6em;
+			}
+		}
+		p {
+			color: $black;
+			margin-top:10px;
+			line-height: 50px;
+			text-transform: uppercase;
+			@include text-shadow(1px, 0px,1px, $gray-shade);
+			font: {
+				size: 3em;
+				family: $stack-roboto;
+				weight: $font-bold;
+			}
+			
+		@include mobile-xs {
+			font-size: 0.9em;
+			line-height: 20px;
+			}
+
+		@include mobile-sm {
+			font-size: 1em;
+			line-height: 20px;
+			}
+
+		@include tablet {
+			font-size: 1.2em;
+			}
+
+		@include desktop-md {
+			font-size: 2.2em;
+			}
+		}
+	
+}

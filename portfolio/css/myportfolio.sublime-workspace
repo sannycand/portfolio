@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ov",
+				"ov:h	overflow:hidden"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fo",
+				"footer	<footer>"
+			],
+			[
+				"sa",
+				"span	<span>"
+			],
+			[
+				"des",
+				"desktop-md"
+			],
+			[
+				"de",
+				"desktop-md"
+			],
+			[
+				"ta",
+				"tablet"
+			],
+			[
+				"mo",
+				"mobile-xs"
+			],
+			[
+				"bre",
+				"break-xs"
+			],
+			[
+				"br",
+				"break-xs"
+			],
+			[
+				"mi",
+				"mixin"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"oc",
+				"opacity"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"HE",
+				"header"
+			],
+			[
+				"d",
+				"div	<div>"
+			],
+			[
+				"h",
+				"header	Tag"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"hi",
+				"height	Attr"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"na",
+				"navbar-header"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fi",
+				"font-family"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"backa",
+				"background-image"
+			],
+			[
+				"se",
+				"section	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_variables.scss",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Projects/myproject/index.html",
+			"settings":
+			{
+				"buffer_size": 2557,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_functions.scss",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.scss",
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 9506,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_message.scss",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_css3.scss",
+			"settings":
+			{
+				"buffer_size": 12687,
+				"line_ending": "Windows",
+				"name": "css3.scss"
+			}
+		},
+		{
+			"file": "_footer.scss",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_profile.scss",
+			"settings":
+			{
+				"buffer_size": 1292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_header.scss",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_main.scss",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows",
+				"name": "_main.scss"
+			}
+		},
+		{
+			"file": "/C/Projects/myproject/portfolio/js/header.js",
+			"settings":
+			{
+				"buffer_size": 233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_reset.scss",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacg",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/myproject",
+		"/C/Projects/myproject/portfolio",
+		"/C/Projects/myproject/portfolio/css",
+		"/C/Projects/myproject/portfolio/img",
+		"/C/Projects/myproject/portfolio/js"
+	],
+	"file_history":
+	[
+		"/C/Users/home/Desktop/css3-mixins.scss",
+		"/C/Projects/myproject/portfolio/js/header.js",
+		"/C/Projects/myproject/portfolio/css/_profile.scss",
+		"/C/Projects/myproject/portfolio/css/_main.scss",
+		"/C/Projects/myproject/portfolio/css/reset.scss",
+		"/C/Projects/myproject/portfolio/css/_mixins.scss",
+		"/C/Projects/myproject/portfolio/css/_functions.scss",
+		"/C/Projects/myproject/portfolio/css/_variables.scss",
+		"/C/Projects/myproject/portfolio/css/_header.scss",
+		"/C/Projects/myproject/portfolio/css/_footer.scss",
+		"/C/Projects/myproject/portfolio/css/style.scss",
+		"/C/Projects/myproject/portfolio/css/style.css.map",
+		"/C/Projects/myproject/portfolio/css/_message.scss",
+		"/C/Users/home/Downloads/Infinite Skills - Learning Sass/Learning Sass - Syntactically Awesome StyleSheets - Working Files/Chapter 6/css/_mixins.scss",
+		"/C/Projects/myproject/portfolio/css/_media query size.scss",
+		"/C/Projects/myproject/portfolio/css/google font.scss",
+		"/C/Users/home/Downloads/Infinite Skills - Learning Sass/Learning Sass - Syntactically Awesome StyleSheets - Working Files/Chapter 6/css/bourbon/css3/_border-image.scss",
+		"/C/Users/home/Downloads/Infinite Skills - Learning Sass/Learning Sass - Syntactically Awesome StyleSheets - Working Files/Chapter 6/css/bourbon/css3/_border-radius.scss",
+		"/C/Users/home/Downloads/Infinite Skills - Learning Sass/Learning Sass - Syntactically Awesome StyleSheets - Working Files/Chapter 6/css/_footer.scss",
+		"/C/Projects/myproject/index.html",
+		"/C/Users/home/Desktop/myproject/index.html",
+		"/C/Users/home/Desktop/myproject/css/style.css",
+		"/C/Users/home/Desktop/myproject/css/style.scss",
+		"/C/wamp/www/bootstrap/wp-content/themes/mybootstraptheme/style.css",
+		"/C/Users/home/Desktop/New folder (2)/css/owl.carousel.css",
+		"/C/Users/home/Desktop/New folder (2)/index.html",
+		"/C/Users/home/Desktop/New folder (2)/css/owl.theme.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;\n",
+			"%;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Projects/myproject/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1586,
+								1586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_functions.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								697,
+								697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1602.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "_message.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_css3.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6958,
+								6958
+							]
+						],
+						"settings":
+						{
+							"auto_name": "css3.scss",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5587.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "_profile.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1538.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_main.scss",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Projects/myproject/portfolio/js/header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "_reset.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.4378330373,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.341436712303,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myportfolio.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}

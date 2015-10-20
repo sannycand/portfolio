@@ -1,0 +1,31 @@
+.site-footer {
+	padding: 20px;
+	background: {
+		image: url(../img/footer-bg.jpg);
+	}
+	p{
+		color: $DarkSlateGray;
+		font: {
+			size: 20px;
+			family: $stack-roboto; 
+		}
+		a {
+			color: $DarkSlateGray;
+			&:hover{
+				text-decoration: none;
+				color: $mint-cream;
+			}
+			
+		}
+	}
+	ul {
+		background-color: transparent;
+		li {
+			color: $DarkSlateGray;
+			font:{
+				size: 15px;
+				family: $stack-ubuntu;
+			}
+		}
+	}
+}
